@@ -1,0 +1,1 @@
+"Bitte dende eine Email an: lieblings_kollege@firma.de"
